@@ -32,7 +32,7 @@ class FrontierOAuth2Implementation(LocalOAuth2ImplementationWithPkce):
     @property
     def name(self) -> str:
         """Return the implementation name."""
-        return "Frontier Developments"
+        return "JKamyk13"
 
     @property
     def service_domain(self) -> str:
