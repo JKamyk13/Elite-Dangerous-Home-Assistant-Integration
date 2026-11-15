@@ -45,6 +45,7 @@ class EliteDangerousDockedSensor(
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.unique_id)},
             name=entry.title,
+            manufacturer="JKamyk13",
             model="Companion API",
         )
 
