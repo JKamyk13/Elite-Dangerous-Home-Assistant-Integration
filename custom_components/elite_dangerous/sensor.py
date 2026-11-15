@@ -138,7 +138,6 @@ class EliteDangerousSensor(
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.unique_id)},
             name=entry.title,
-            manufacturer="Frontier Developments",
             model="Companion API",
         )
 
