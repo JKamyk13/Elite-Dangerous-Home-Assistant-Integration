@@ -46,7 +46,7 @@ For older Home Assistant versions, the integration can be installed using HACS.
 
 [![Open HACS Repository in My Home Assistant](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=JKamyk13&repository=Elite-Dangerous-Home-Assistant-Integration&category=integration)
 
-1. Click the **OPEN HACS REPOSITORY ON MY HA** button above.
+1. Click the button above.
 2. Add the repository as a custom repository if prompted.
 3. Open HACS and download **Elite Dangerous to Home Assistant**.
 4. Restart Home Assistant.
