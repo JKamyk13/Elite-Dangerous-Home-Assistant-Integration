@@ -60,8 +60,8 @@ After installing the integration:
 3. Search for **Elite Dangerous**.
 4. Select the integration.
 5. Choose which Client ID you want to use:
-   - **Project Client ID** – use the Client ID provided by the integration author.
-   - **Custom Client ID** – enter your own Client ID from a Frontier Developer application.
+   - **Use the integration Client ID** – use the Client ID provided by the integration author.
+   - **Use your own Client ID** – enter your own Client ID from a Frontier Developer application.
 6. Complete the Frontier OAuth authorization process when prompted.
 
 The Client ID can be selected during integration setup. There is no need to edit integration files manually.
