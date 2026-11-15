@@ -1,0 +1,52 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Elite Dangerous",
+        "description": "Choose whether to use the integration's Frontier Client ID or your own. A Shared Key is not required.",
+        "data": {
+          "client_id_source": "Client ID"
+        }
+      },
+      "client_id": {
+        "title": "Use your own Client ID",
+        "description": "Enter the Client ID for your approved Frontier application. A Shared Key is not required.",
+        "data": {
+          "client_id": "Your Frontier application Client ID"
+        }
+      }
+    },
+    "error": {
+      "invalid_client_id": "Enter a valid Frontier application Client ID."
+    },
+    "abort": {
+      "cannot_connect": "Unable to connect to Frontier CAPI.",
+      "invalid_profile": "Frontier did not return a valid commander profile.",
+      "already_configured": "This commander is already configured."
+    }
+  },
+  "entity": {
+    "sensor": {
+      "commander_credits": {
+        "name": "Commander credits"
+      },
+      "current_system": {
+        "name": "Current system"
+      },
+      "current_station": {
+        "name": "Current station"
+      },
+      "current_ship": {
+        "name": "Current ship"
+      },
+      "fleet_carrier_balance": {
+        "name": "Fleet carrier balance"
+      }
+    },
+    "binary_sensor": {
+      "docked": {
+        "name": "Docked"
+      }
+    }
+  }
+}

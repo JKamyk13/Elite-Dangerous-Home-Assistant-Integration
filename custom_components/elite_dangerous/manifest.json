@@ -1,0 +1,11 @@
+{
+  "domain": "elite_dangerous",
+  "name": "Elite Dangerous",
+  "codeowners": ["@JKamyk13"],
+  "config_flow": true,
+  "documentation": "https://github.com/JKamyk13/Elite-Dangerous-Home-Assistant-Integration",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
