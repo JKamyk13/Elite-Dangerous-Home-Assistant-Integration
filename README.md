@@ -1,0 +1,1 @@
+# Elite-Dangerous-Home-Assistant-Integration
