@@ -51,6 +51,36 @@ For older Home Assistant versions, the integration can be installed using HACS.
 3. Open HACS and download **Elite Dangerous to Home Assistant**.
 4. Restart Home Assistant.
 
+### Manual Installation
+
+If you prefer not to use the Home Assistant Marketplace or HACS, you can install the integration manually.
+
+1. Open the [GitHub repository](https://github.com/JKamyk13/Elite-Dangerous-Home-Assistant-Integration/tree/Work-in-progress).
+2. Download the repository archive by selecting **Code → Download ZIP**.
+3. Extract the downloaded ZIP archive.
+4. Locate the `custom_components/elite_dangerous` directory.
+5. Copy the entire `elite_dangerous` folder into your Home Assistant configuration directory:
+
+   ```text
+   /config/custom_components/elite_dangerous/
+   ```
+
+6. Make sure the directory structure looks like this:
+
+   ```text
+   config/
+   └── custom_components/
+       └── elite_dangerous/
+           ├── __init__.py
+           ├── manifest.json
+           ├── config_flow.py
+           └── ...
+   ```
+
+7. Restart Home Assistant.
+
+**Important:** Copy the `elite_dangerous` integration folder itself, not the entire repository folder into `custom_components`.
+
 ## Configuration
 
 After installing the integration:
