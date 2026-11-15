@@ -55,7 +55,7 @@ For older Home Assistant versions, the integration can be installed using HACS.
 
 If you prefer not to use the Home Assistant Marketplace or HACS, you can install the integration manually.
 
-1. Open the [GitHub repository](https://github.com/JKamyk13/Elite-Dangerous-Home-Assistant-Integration/tree/Work-in-progress).
+1. Open the GitHub repository.
 2. Download the repository archive by selecting **Code → Download ZIP**.
 3. Extract the downloaded ZIP archive.
 4. Locate the `custom_components/elite_dangerous` directory.
