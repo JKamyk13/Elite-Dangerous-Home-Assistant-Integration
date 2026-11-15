@@ -33,7 +33,7 @@ The Marketplace is built into Home Assistant and does not require a separate ins
 
 [![Add Marketplace Repository to My Home Assistant](https://my.home-assistant.io/badges/marketplace_repository.svg)](https://my.home-assistant.io/redirect/marketplace_repository/?owner=JKamyk13&repository=Elite-Dangerous-Home-Assistant-Integration&category=integration)
 
-1. Click the **Add Marketplace Repository to My Home Assistant** button above.
+1. Click the **OPEN MARKETPLACE REPOSITORY ON MY HA** button above.
 2. Home Assistant will open the Marketplace with this repository preselected.
 3. Add the repository to your Marketplace.
 4. Open the repository page.
@@ -46,7 +46,7 @@ For older Home Assistant versions, the integration can be installed using HACS.
 
 [![Open HACS Repository in My Home Assistant](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=JKamyk13&repository=Elite-Dangerous-Home-Assistant-Integration&category=integration)
 
-1. Click the **Open HACS Repository** button above.
+1. Click the **OPEN HACS REPOSITORY ON MY HA** button above.
 2. Add the repository as a custom repository if prompted.
 3. Open HACS and download **Elite Dangerous to Home Assistant**.
 4. Restart Home Assistant.
